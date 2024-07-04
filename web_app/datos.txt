@@ -1,0 +1,11 @@
+
+
+Carrera: Diseño Multimedial
+Materia: Diseño y Programacion Web I
+Año: 2024
+Cuatrimestre: 3er Cuatrimestre
+Comisión: DMM3BP
+Turno: Mañana Presencial
+Alumnos: Elias Camila, Lotysz Marko, Pellendier Morena
+Docente: Omar Toyos
+Entrega: Trabajo Práctico
